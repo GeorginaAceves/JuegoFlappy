@@ -1,3 +1,5 @@
-console.log("hola mundo")
-console.log("Geo")
-console.log("hola de nuevo")
+// index.js
+
+const canvas = document.getElementById("game")
+
+console.log(canvas)
